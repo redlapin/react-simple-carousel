@@ -1,0 +1,29 @@
+{
+  "name": "react-carousel",
+  "version": "1.0.0",
+  "description": "a simple carousel component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redlapin/react-simple-carousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "react"
+  ],
+  "author": "liufei-12@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redlapin/react-simple-carousel/issues"
+  },
+  "homepage": "https://github.com/redlapin/react-simple-carousel#readme",
+  "dependencies": {
+    "cx": "^18.8.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
